@@ -1,4 +1,8 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+Cool, all my changes will be now part of the main branch, ready to be deployed!
+>>>>>>> 08439c678edd972d0bdea863beed30d580f59b59
 #!/bin/bash
 echo "ALX School is so cool!"
 =======
